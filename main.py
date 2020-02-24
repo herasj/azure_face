@@ -32,7 +32,7 @@ face_client = FaceClient(ENDPOINT, CognitiveServicesCredentials(KEY))
 #https://www.euroresidentes.com/empresa/motivacion/wp-content/uploads/sites/7/2014/04/como-motivar-a-las-personas-euroresidentes.jpg
 
 # Cargar imagen
-single_face_image_url = 'https://www.euroresidentes.com/empresa/motivacion/wp-content/uploads/sites/7/2014/04/como-motivar-a-las-personas-euroresidentes.jpg'
+single_face_image_url = 'https://i.ytimg.com/vi/dF_UadKIUzE/maxresdefault.jpg'
 single_image_name = os.path.basename(single_face_image_url)
 
 #Detectar caras
